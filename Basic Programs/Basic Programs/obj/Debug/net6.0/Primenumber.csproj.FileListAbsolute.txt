@@ -1,0 +1,5 @@
+D:\Basic Programs\Basic Programs\obj\Debug\net6.0\Primenumber.csproj.AssemblyReference.cache
+D:\Basic Programs\Basic Programs\obj\Debug\net6.0\Primenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Programs\Basic Programs\obj\Debug\net6.0\Primenumber.AssemblyInfoInputs.cache
+D:\Basic Programs\Basic Programs\obj\Debug\net6.0\Primenumber.AssemblyInfo.cs
+D:\Basic Programs\Basic Programs\obj\Debug\net6.0\Primenumber.csproj.CoreCompileInputs.cache

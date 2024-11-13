@@ -1,0 +1,30 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\refint\ArmStrongNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ref\ArmStrongNumber.dll
+D:\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.exe
+D:\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.deps.json
+D:\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.runtimeconfig.json
+D:\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.dll
+D:\Basic Programs\ArmStrongNumber\bin\Debug\net6.0\ArmStrongNumber.pdb
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.csproj.AssemblyReference.cache
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.AssemblyInfoInputs.cache
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.AssemblyInfo.cs
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.dll
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\refint\ArmStrongNumber.dll
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.pdb
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ArmStrongNumber.genruntimeconfig.cache
+D:\Basic Programs\ArmStrongNumber\obj\Debug\net6.0\ref\ArmStrongNumber.dll

@@ -1,0 +1,45 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\refint\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ref\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\refint\ReverseOfaString.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ref\ReverseOfaString.dll
+D:\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.exe
+D:\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.deps.json
+D:\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.runtimeconfig.json
+D:\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.dll
+D:\Basic Programs\ReverseOfaString\bin\Debug\net6.0\ReverseOfaString.pdb
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.AssemblyReference.cache
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfoInputs.cache
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.AssemblyInfo.cs
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.dll
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\refint\ReverseOfaString.dll
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.pdb
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ReverseOfaString.genruntimeconfig.cache
+D:\Basic Programs\ReverseOfaString\obj\Debug\net6.0\ref\ReverseOfaString.dll

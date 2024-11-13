@@ -1,0 +1,30 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\refint\RemoveDuplicates.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\ref\RemoveDuplicates.dll
+D:\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.exe
+D:\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.deps.json
+D:\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.runtimeconfig.json
+D:\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.dll
+D:\Basic Programs\RemoveDuplicates\bin\Debug\net6.0\RemoveDuplicates.pdb
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.AssemblyReference.cache
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfoInputs.cache
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.AssemblyInfo.cs
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.dll
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\refint\RemoveDuplicates.dll
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.pdb
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\RemoveDuplicates.genruntimeconfig.cache
+D:\Basic Programs\RemoveDuplicates\obj\Debug\net6.0\ref\RemoveDuplicates.dll

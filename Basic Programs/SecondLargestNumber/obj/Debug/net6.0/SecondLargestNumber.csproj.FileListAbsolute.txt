@@ -1,0 +1,30 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\refint\SecondLargestNumber.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\All\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\ref\SecondLargestNumber.dll
+D:\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.exe
+D:\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.deps.json
+D:\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.runtimeconfig.json
+D:\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.dll
+D:\Basic Programs\SecondLargestNumber\bin\Debug\net6.0\SecondLargestNumber.pdb
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.csproj.AssemblyReference.cache
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.AssemblyInfoInputs.cache
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.AssemblyInfo.cs
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.csproj.CoreCompileInputs.cache
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.dll
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\refint\SecondLargestNumber.dll
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.pdb
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\SecondLargestNumber.genruntimeconfig.cache
+D:\Basic Programs\SecondLargestNumber\obj\Debug\net6.0\ref\SecondLargestNumber.dll

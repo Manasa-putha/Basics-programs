@@ -1,0 +1,15 @@
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\bin\Debug\net6.0\Basic Programs.exe
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\bin\Debug\net6.0\Basic Programs.deps.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\bin\Debug\net6.0\Basic Programs.runtimeconfig.json
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\bin\Debug\net6.0\Basic Programs.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\bin\Debug\net6.0\Basic Programs.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.csproj.AssemblyReference.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.AssemblyInfoInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.AssemblyInfo.cs
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.csproj.CoreCompileInputs.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\refint\Basic Programs.dll
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.pdb
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\Basic Programs.genruntimeconfig.cache
+C:\Users\puthamanasa\OneDrive - Nagarro\Desktop\Basic Programs\Basic Programs\obj\Debug\net6.0\ref\Basic Programs.dll
